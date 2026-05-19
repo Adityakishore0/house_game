@@ -1,17 +1,8 @@
-```
- _____ _   _ _____   _   _  ___  _   _ ____  _____
-|_   _| | | | ____| | | | |/ _ \| | | / ___|| ____|
-  | | | |_| |  _|   | |_| | | | | | | \___ \|  _|
-  | | |  _  | |___  |  _  | |_| | |_| |___) | |___
-  |_| |_| |_|_____| |_| |_|\___/ \___/|____/|_____|
+<div align="center">
+  <img alt="House Game" src="https://github.com/user-attachments/assets/cd9dcfc3-4232-4fcf-a4f2-7247bc70e56d" width="90%">
+</div>
 
-  ____    _    __  __ _____
- / ___|  / \  |  \/  | ____|
-| |  _  / _ \ | |\/| |  _|
-| |_| |/ ___ \| |  | | |___
- \____/_/   \_\_|  |_|_____|
-```
-
+# ***House Game***
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B)
